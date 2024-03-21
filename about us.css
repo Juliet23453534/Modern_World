@@ -108,8 +108,10 @@ input[type=checkbox]{
     }
 }
 /*About Us*/
-h2{
+.center{
     text-align: center;
+    text-shadow: 2px 2px 5px #728390;
+    font-size: 30px;
 }
 .purpose p{
     text-align: center;
